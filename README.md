@@ -18,4 +18,5 @@ Global nets lab 2
 С множественными ошибками (более 1 на слово, но не обязательно во всех словах)
 
 Текст использованный в алгоритме лежит в файле sample.txt (src:https://ru.wikipedia.org/wiki/Циклический_избыточный_код)
+
 Алгоритм реализован в task.py (hemming encoder and decoder source code: https://gist.github.com/baskiton/6d361f4155f41e91c4be1dce897f7431)
